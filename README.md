@@ -14,7 +14,7 @@ One can also ask Jenny to search information on the net and it will give a detai
 Jenny can help you solve math problems. It can even show the battery percentage, disk space used.
 
 **Limitations**
-1.Cannot work effectively with background noise - Whenever we give Jenny a command, if there is any background noise, then it might not be able to detect what exactly we are speaking.
-2.Accent specific - The technology we have used in Jenny for speech recognition is built for an American accent. That’s why if the accent of a person is very different, then Jenny wont be able to understand your commands.
-3.Lack of Accuracy and Misinterpretation - There are chances that while giving a command to Jenny , if we speak fast then it wont be able to understand and might misinterpret our commands.
-4.Time delay to process a lengthy command - If the command given to Jenny is too long then the time taken to process the commands would increase.
+1. Cannot work effectively with background noise - Whenever we give Jenny a command, if there is any background noise, then it might not be able to detect what exactly we are speaking.
+2. Accent specific - The technology we have used in Jenny for speech recognition is built for an American accent. That’s why if the accent of a person is very different, then Jenny wont be able to understand your commands.
+3. Lack of Accuracy and Misinterpretation - There are chances that while giving a command to Jenny , if we speak fast then it wont be able to understand and might misinterpret our commands.
+4. Time delay to process a lengthy command - If the command given to Jenny is too long then the time taken to process the commands would increase.
